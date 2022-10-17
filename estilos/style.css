@@ -43,11 +43,11 @@ iframe#tela {
 }
 
 section#icones {
-    text-align: right;
+    text-align: center;
 }
 
 section#icones img {
-    margin: 8px;
+    margin: 15px 8px 8px 8px;
     width: 50px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.459);
     border-radius: 50%;
